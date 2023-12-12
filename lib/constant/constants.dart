@@ -2,7 +2,7 @@
 * @author Ujjawal Panchal
 * @Date 17/04/23
 *
-* File contains information about the API call endpoint url and some static mathods
+* File contains information about the API call endpoint url and some static methods
 */
 
 import 'package:flutter/foundation.dart';
