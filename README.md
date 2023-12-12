@@ -1,6 +1,6 @@
 # cricket_live_practical
 
-A new Flutter project.
+A new Flutter project to learn API test case.
 
 ## Getting Started
 
