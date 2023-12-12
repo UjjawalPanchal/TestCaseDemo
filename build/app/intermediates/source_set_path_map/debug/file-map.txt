@@ -1,0 +1,12 @@
+com.cricket.live.cricket_live_practical.app-jetified-window-java-1.0.0-beta04-0 /Users/ujjawalpanchal/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/res
+com.cricket.live.cricket_live_practical.app-core-1.6.0-1 /Users/ujjawalpanchal/.gradle/caches/transforms-3/4ca28c4a71705f8a687c69dda140a277/transformed/core-1.6.0/res
+com.cricket.live.cricket_live_practical.app-jetified-annotation-experimental-1.1.0-2 /Users/ujjawalpanchal/.gradle/caches/transforms-3/8965c941cf4bee4d72541b965c7c9d39/transformed/jetified-annotation-experimental-1.1.0/res
+com.cricket.live.cricket_live_practical.app-jetified-window-1.0.0-beta04-3 /Users/ujjawalpanchal/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/res
+com.cricket.live.cricket_live_practical.app-debug-4 /Volumes/Development/Projects/cricket_live_practical/android/app/src/debug/res
+com.cricket.live.cricket_live_practical.app-main-5 /Volumes/Development/Projects/cricket_live_practical/android/app/src/main/res
+com.cricket.live.cricket_live_practical.app-pngs-6 /Volumes/Development/Projects/cricket_live_practical/build/app/generated/res/pngs/debug
+com.cricket.live.cricket_live_practical.app-resValues-7 /Volumes/Development/Projects/cricket_live_practical/build/app/generated/res/resValues/debug
+com.cricket.live.cricket_live_practical.app-rs-8 /Volumes/Development/Projects/cricket_live_practical/build/app/generated/res/rs/debug
+com.cricket.live.cricket_live_practical.app-mergeDebugResources-9 /Volumes/Development/Projects/cricket_live_practical/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.cricket.live.cricket_live_practical.app-mergeDebugResources-10 /Volumes/Development/Projects/cricket_live_practical/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.cricket.live.cricket_live_practical.app-merged_res-11 /Volumes/Development/Projects/cricket_live_practical/build/app/intermediates/merged_res/debug
