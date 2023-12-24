@@ -9,18 +9,12 @@ import 'package:cricket_live_practical/models/team_item_pojo.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
-class HomeScreen extends StatefulWidget {
+class HomeScreen extends StatelessWidget {
   const HomeScreen({Key? key}) : super(key: key);
 
   @override
-  State<HomeScreen> createState() => _HomeScreenState();
-}
-
-class _HomeScreenState extends State<HomeScreen> {
-  HomeDataController hController = Get.put(HomeDataController());
-
-  @override
   Widget build(BuildContext context) {
+    HomeDataController hController = Get.put(HomeDataController());
     return Scaffold(
       backgroundColor: Colors.grey[200],
       appBar: AppBar(title: const Text('Cricket Live')),
@@ -78,6 +72,29 @@ class _HomeScreenState extends State<HomeScreen> {
               ),
             );
           }),
+      floatingActionButton: FloatingActionButton(
+        backgroundColor: Colors.blue,
+        onPressed: () {
+          /*List<int> list = [1, 5, 0, 1, 2, 0, 1, 2, -1];
+          CommonMethods.printLog('hello $list');
+          int temp;
+          int count = 0;
+          for (int i = 0; i < list.length; i++) {
+            count++;
+            for (int j = i + 1; j < list.length; j++) {
+              count++;
+              if (list[i] > list[j]) {
+                temp = list[i];
+                list[i] = list[j];
+                list[j] = temp;
+              }
+            }
+          }
+          CommonMethods.printLog('hello $count');
+          CommonMethods.printLog('hello $list');*/
+        },
+        child: const Icon(Icons.add, color: Colors.white),
+      ),
     );
   }
 
